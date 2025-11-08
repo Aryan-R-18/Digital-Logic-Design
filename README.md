@@ -1,6 +1,6 @@
 # ⚡ Digital Logic Design by Aryan
 
-![Proteus Schematic Banner](https://raw.githubusercontent.com/Aryan-R-18/Digital-Logic-Design/main/assets/proteus-bg.jpg)
+!![Proteus Schematic](assets/DLDCover.jpg)
 
 > 🧠 *A collection of digital circuits designed and simulated in Proteus — built for 3rd Semester B.Tech CSE (Digital Logic Design Lab).*  
 > 💡 *Experience logic come alive through gates, flip-flops, adders, multiplexers, and counters.*
